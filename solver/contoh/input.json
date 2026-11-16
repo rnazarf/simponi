@@ -1,0 +1,1562 @@
+{
+ "slots": [
+  [
+   1,
+   2
+  ],
+  [
+   1,
+   3
+  ],
+  [
+   1,
+   4
+  ],
+  [
+   1,
+   5
+  ],
+  [
+   1,
+   6
+  ],
+  [
+   1,
+   7
+  ],
+  [
+   1,
+   8
+  ],
+  [
+   1,
+   9
+  ],
+  [
+   1,
+   10
+  ],
+  [
+   1,
+   11
+  ],
+  [
+   1,
+   12
+  ],
+  [
+   2,
+   0
+  ],
+  [
+   2,
+   1
+  ],
+  [
+   2,
+   2
+  ],
+  [
+   2,
+   3
+  ],
+  [
+   2,
+   4
+  ],
+  [
+   2,
+   5
+  ],
+  [
+   2,
+   6
+  ],
+  [
+   2,
+   7
+  ],
+  [
+   2,
+   8
+  ],
+  [
+   2,
+   9
+  ],
+  [
+   2,
+   10
+  ],
+  [
+   2,
+   11
+  ],
+  [
+   3,
+   0
+  ],
+  [
+   3,
+   1
+  ],
+  [
+   3,
+   2
+  ],
+  [
+   3,
+   3
+  ],
+  [
+   3,
+   4
+  ],
+  [
+   3,
+   5
+  ],
+  [
+   3,
+   6
+  ],
+  [
+   3,
+   7
+  ],
+  [
+   3,
+   8
+  ],
+  [
+   3,
+   9
+  ],
+  [
+   3,
+   10
+  ],
+  [
+   3,
+   11
+  ],
+  [
+   3,
+   12
+  ],
+  [
+   4,
+   0
+  ],
+  [
+   4,
+   1
+  ],
+  [
+   4,
+   2
+  ],
+  [
+   4,
+   3
+  ],
+  [
+   4,
+   4
+  ],
+  [
+   4,
+   5
+  ],
+  [
+   4,
+   6
+  ],
+  [
+   4,
+   7
+  ],
+  [
+   4,
+   8
+  ],
+  [
+   4,
+   9
+  ],
+  [
+   4,
+   10
+  ],
+  [
+   4,
+   11
+  ],
+  [
+   4,
+   12
+  ],
+  [
+   5,
+   1
+  ],
+  [
+   5,
+   2
+  ],
+  [
+   5,
+   3
+  ],
+  [
+   5,
+   4
+  ],
+  [
+   5,
+   5
+  ],
+  [
+   5,
+   6
+  ],
+  [
+   5,
+   7
+  ],
+  [
+   5,
+   8
+  ]
+ ],
+ "beban": [
+  {
+   "ruang_id": 1,
+   "kelas_id": 1,
+   "guru_id": 1,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 2,
+   "kelas_id": 1,
+   "guru_id": 2,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 3,
+   "kelas_id": 1,
+   "guru_id": 3,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 4,
+   "kelas_id": 1,
+   "guru_id": 4,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 5,
+   "kelas_id": 1,
+   "guru_id": 5,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 5,
+   "kelas_id": 1,
+   "guru_id": 6,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 5,
+   "kelas_id": 1,
+   "guru_id": 7,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 5,
+   "kelas_id": 1,
+   "guru_id": 8,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 6,
+   "kelas_id": 1,
+   "guru_id": 9,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 6,
+   "kelas_id": 1,
+   "guru_id": 10,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 7,
+   "kelas_id": 1,
+   "guru_id": 11,
+   "jam_per_minggu": 1,
+   "pola_blok": [
+    1
+   ]
+  },
+  {
+   "ruang_id": 8,
+   "kelas_id": 1,
+   "guru_id": 12,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 9,
+   "kelas_id": 1,
+   "guru_id": 13,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 10,
+   "kelas_id": 1,
+   "guru_id": 14,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 11,
+   "kelas_id": 1,
+   "guru_id": 15,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 12,
+   "kelas_id": 1,
+   "guru_id": 16,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 13,
+   "kelas_id": 1,
+   "guru_id": 17,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 14,
+   "kelas_id": 1,
+   "guru_id": 18,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 15,
+   "kelas_id": 2,
+   "guru_id": 1,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 16,
+   "kelas_id": 2,
+   "guru_id": 2,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 17,
+   "kelas_id": 2,
+   "guru_id": 3,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 18,
+   "kelas_id": 2,
+   "guru_id": 4,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 19,
+   "kelas_id": 2,
+   "guru_id": 5,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 19,
+   "kelas_id": 2,
+   "guru_id": 6,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 19,
+   "kelas_id": 2,
+   "guru_id": 19,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 19,
+   "kelas_id": 2,
+   "guru_id": 7,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 20,
+   "kelas_id": 2,
+   "guru_id": 9,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 20,
+   "kelas_id": 2,
+   "guru_id": 10,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 21,
+   "kelas_id": 2,
+   "guru_id": 11,
+   "jam_per_minggu": 1,
+   "pola_blok": [
+    1
+   ]
+  },
+  {
+   "ruang_id": 22,
+   "kelas_id": 2,
+   "guru_id": 12,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 23,
+   "kelas_id": 2,
+   "guru_id": 13,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 24,
+   "kelas_id": 2,
+   "guru_id": 14,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 25,
+   "kelas_id": 2,
+   "guru_id": 15,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 26,
+   "kelas_id": 2,
+   "guru_id": 16,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 27,
+   "kelas_id": 2,
+   "guru_id": 17,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 28,
+   "kelas_id": 2,
+   "guru_id": 18,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 29,
+   "kelas_id": 3,
+   "guru_id": 1,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 30,
+   "kelas_id": 3,
+   "guru_id": 2,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 31,
+   "kelas_id": 3,
+   "guru_id": 3,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 32,
+   "kelas_id": 3,
+   "guru_id": 4,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 33,
+   "kelas_id": 3,
+   "guru_id": 20,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 33,
+   "kelas_id": 3,
+   "guru_id": 21,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 33,
+   "kelas_id": 3,
+   "guru_id": 22,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 33,
+   "kelas_id": 3,
+   "guru_id": 23,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 34,
+   "kelas_id": 3,
+   "guru_id": 9,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 34,
+   "kelas_id": 3,
+   "guru_id": 10,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 35,
+   "kelas_id": 3,
+   "guru_id": 24,
+   "jam_per_minggu": 1,
+   "pola_blok": [
+    1
+   ]
+  },
+  {
+   "ruang_id": 36,
+   "kelas_id": 3,
+   "guru_id": 12,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 37,
+   "kelas_id": 3,
+   "guru_id": 13,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 38,
+   "kelas_id": 3,
+   "guru_id": 14,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 39,
+   "kelas_id": 3,
+   "guru_id": 15,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 40,
+   "kelas_id": 3,
+   "guru_id": 16,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 41,
+   "kelas_id": 3,
+   "guru_id": 17,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 42,
+   "kelas_id": 3,
+   "guru_id": 25,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 43,
+   "kelas_id": 4,
+   "guru_id": 1,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 44,
+   "kelas_id": 4,
+   "guru_id": 2,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 45,
+   "kelas_id": 4,
+   "guru_id": 3,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 46,
+   "kelas_id": 4,
+   "guru_id": 4,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 47,
+   "kelas_id": 4,
+   "guru_id": 26,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 48,
+   "kelas_id": 4,
+   "guru_id": 27,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 49,
+   "kelas_id": 4,
+   "guru_id": 28,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 50,
+   "kelas_id": 4,
+   "guru_id": 9,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 50,
+   "kelas_id": 4,
+   "guru_id": 10,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 51,
+   "kelas_id": 4,
+   "guru_id": 24,
+   "jam_per_minggu": 1,
+   "pola_blok": [
+    1
+   ]
+  },
+  {
+   "ruang_id": 52,
+   "kelas_id": 4,
+   "guru_id": 12,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 53,
+   "kelas_id": 4,
+   "guru_id": 13,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 54,
+   "kelas_id": 4,
+   "guru_id": 14,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 55,
+   "kelas_id": 4,
+   "guru_id": 15,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 56,
+   "kelas_id": 4,
+   "guru_id": 16,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 57,
+   "kelas_id": 4,
+   "guru_id": 17,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 58,
+   "kelas_id": 4,
+   "guru_id": 25,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 59,
+   "kelas_id": 5,
+   "guru_id": 29,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 60,
+   "kelas_id": 5,
+   "guru_id": 30,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 61,
+   "kelas_id": 5,
+   "guru_id": 2,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 62,
+   "kelas_id": 5,
+   "guru_id": 3,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 63,
+   "kelas_id": 5,
+   "guru_id": 4,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 64,
+   "kelas_id": 5,
+   "guru_id": 11,
+   "jam_per_minggu": 1,
+   "pola_blok": [
+    1
+   ]
+  },
+  {
+   "ruang_id": 65,
+   "kelas_id": 5,
+   "guru_id": 31,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 66,
+   "kelas_id": 5,
+   "guru_id": 7,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 67,
+   "kelas_id": 5,
+   "guru_id": 6,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 68,
+   "kelas_id": 5,
+   "guru_id": 13,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 69,
+   "kelas_id": 5,
+   "guru_id": 14,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 70,
+   "kelas_id": 5,
+   "guru_id": 8,
+   "jam_per_minggu": 5,
+   "pola_blok": [
+    3,
+    2
+   ]
+  },
+  {
+   "ruang_id": 71,
+   "kelas_id": 5,
+   "guru_id": 7,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 72,
+   "kelas_id": 5,
+   "guru_id": 5,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 73,
+   "kelas_id": 5,
+   "guru_id": 19,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 74,
+   "kelas_id": 5,
+   "guru_id": 15,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 75,
+   "kelas_id": 5,
+   "guru_id": 19,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 76,
+   "kelas_id": 6,
+   "guru_id": 32,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 77,
+   "kelas_id": 6,
+   "guru_id": 20,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 78,
+   "kelas_id": 6,
+   "guru_id": 22,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 79,
+   "kelas_id": 6,
+   "guru_id": 29,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 80,
+   "kelas_id": 6,
+   "guru_id": 30,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 81,
+   "kelas_id": 6,
+   "guru_id": 33,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    2,
+    2
+   ]
+  },
+  {
+   "ruang_id": 82,
+   "kelas_id": 6,
+   "guru_id": 3,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 83,
+   "kelas_id": 6,
+   "guru_id": 4,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 84,
+   "kelas_id": 6,
+   "guru_id": 34,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 85,
+   "kelas_id": 6,
+   "guru_id": 21,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 86,
+   "kelas_id": 6,
+   "guru_id": 24,
+   "jam_per_minggu": 1,
+   "pola_blok": [
+    1
+   ]
+  },
+  {
+   "ruang_id": 87,
+   "kelas_id": 6,
+   "guru_id": 31,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 88,
+   "kelas_id": 6,
+   "guru_id": 13,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 89,
+   "kelas_id": 6,
+   "guru_id": 14,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 90,
+   "kelas_id": 6,
+   "guru_id": 34,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 91,
+   "kelas_id": 6,
+   "guru_id": 35,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 92,
+   "kelas_id": 6,
+   "guru_id": 15,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 93,
+   "kelas_id": 6,
+   "guru_id": 19,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 94,
+   "kelas_id": 7,
+   "guru_id": 32,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 95,
+   "kelas_id": 7,
+   "guru_id": 35,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 96,
+   "kelas_id": 7,
+   "guru_id": 22,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 97,
+   "kelas_id": 7,
+   "guru_id": 29,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 98,
+   "kelas_id": 7,
+   "guru_id": 30,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 99,
+   "kelas_id": 7,
+   "guru_id": 33,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    2,
+    2
+   ]
+  },
+  {
+   "ruang_id": 100,
+   "kelas_id": 7,
+   "guru_id": 3,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 101,
+   "kelas_id": 7,
+   "guru_id": 4,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 102,
+   "kelas_id": 7,
+   "guru_id": 32,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 103,
+   "kelas_id": 7,
+   "guru_id": 20,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 104,
+   "kelas_id": 7,
+   "guru_id": 24,
+   "jam_per_minggu": 1,
+   "pola_blok": [
+    1
+   ]
+  },
+  {
+   "ruang_id": 105,
+   "kelas_id": 7,
+   "guru_id": 31,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 106,
+   "kelas_id": 7,
+   "guru_id": 13,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 107,
+   "kelas_id": 7,
+   "guru_id": 14,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 108,
+   "kelas_id": 7,
+   "guru_id": 34,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 109,
+   "kelas_id": 7,
+   "guru_id": 35,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 110,
+   "kelas_id": 7,
+   "guru_id": 15,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 111,
+   "kelas_id": 7,
+   "guru_id": 19,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 112,
+   "kelas_id": 8,
+   "guru_id": 26,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 113,
+   "kelas_id": 8,
+   "guru_id": 30,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 114,
+   "kelas_id": 8,
+   "guru_id": 2,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 115,
+   "kelas_id": 8,
+   "guru_id": 3,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 116,
+   "kelas_id": 8,
+   "guru_id": 4,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 117,
+   "kelas_id": 8,
+   "guru_id": 27,
+   "jam_per_minggu": 5,
+   "pola_blok": [
+    5
+   ]
+  },
+  {
+   "ruang_id": 118,
+   "kelas_id": 8,
+   "guru_id": 27,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 119,
+   "kelas_id": 8,
+   "guru_id": 11,
+   "jam_per_minggu": 1,
+   "pola_blok": [
+    1
+   ]
+  },
+  {
+   "ruang_id": 120,
+   "kelas_id": 8,
+   "guru_id": 31,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 121,
+   "kelas_id": 8,
+   "guru_id": 28,
+   "jam_per_minggu": 5,
+   "pola_blok": [
+    5
+   ]
+  },
+  {
+   "ruang_id": 122,
+   "kelas_id": 8,
+   "guru_id": 13,
+   "jam_per_minggu": 3,
+   "pola_blok": [
+    3
+   ]
+  },
+  {
+   "ruang_id": 123,
+   "kelas_id": 8,
+   "guru_id": 26,
+   "jam_per_minggu": 5,
+   "pola_blok": [
+    5
+   ]
+  },
+  {
+   "ruang_id": 124,
+   "kelas_id": 8,
+   "guru_id": 14,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 125,
+   "kelas_id": 8,
+   "guru_id": 12,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 126,
+   "kelas_id": 8,
+   "guru_id": 15,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  },
+  {
+   "ruang_id": 127,
+   "kelas_id": 8,
+   "guru_id": 36,
+   "jam_per_minggu": 4,
+   "pola_blok": [
+    4
+   ]
+  },
+  {
+   "ruang_id": 128,
+   "kelas_id": 8,
+   "guru_id": 19,
+   "jam_per_minggu": 2,
+   "pola_blok": [
+    2
+   ]
+  }
+ ],
+ "ketersediaan": [],
+ "terkunci": [],
+ "pengaturan": {
+  "batas_waktu_detik": 120,
+  "workers": 8
+ },
+ "_peta": {
+  "kelas": {
+   "1": "X ATP A",
+   "2": "X ATP B",
+   "3": "X ATPH",
+   "4": "X APHP",
+   "5": "XI ATP",
+   "6": "XI ATPH A",
+   "7": "XI ATPH B",
+   "8": "XI APHP"
+  },
+  "guru": {
+   "1": "MIA",
+   "2": "MONA",
+   "3": "HA",
+   "4": "QA",
+   "5": "AG",
+   "6": "HW",
+   "7": "SR",
+   "8": "SYR",
+   "9": "FPL",
+   "10": "SJ",
+   "11": "ESI",
+   "12": "SWP",
+   "13": "SS",
+   "14": "NH",
+   "15": "SF",
+   "16": "PAT",
+   "17": "KZ",
+   "18": "RNF",
+   "19": "RFD",
+   "20": "FF",
+   "21": "IR",
+   "22": "NT",
+   "23": "RA-1",
+   "24": "YA",
+   "25": "SSS",
+   "26": "PAU",
+   "27": "NTI",
+   "28": "DAP",
+   "29": "DA",
+   "30": "EDI",
+   "31": "FHK",
+   "32": "AW",
+   "33": "USM",
+   "34": "RA-2",
+   "35": "UMA",
+   "36": "RYD"
+  }
+ }
+}
