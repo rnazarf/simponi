@@ -4,6 +4,10 @@
 @include('partials.ruang-kepala')
 @php($sudahDikerjakan = $sudahDikerjakan ?? false)
 @php($ubahSoal = $ubahSoal ?? null)
+@php($geminiTersedia = \App\Models\Pengaturan::geminiTersedia())
+@php($geminiModel = \App\Models\Pengaturan::geminiModel())
+@php($jenjangSekolah = setting('jenjang'))
+@php($defaultOpsiCount = in_array($jenjangSekolah, ['SMA', 'SMK']) ? 5 : 4)
 <div class="grid g-utama">
   <div>
     @if ($kuis->exists)
@@ -37,11 +41,6 @@
       {{-- ================================================================ --}}
       {{-- Generator Soal AI (Google Gemini)                                --}}
       {{-- ================================================================ --}}
-      @php($geminiTersedia = \App\Models\Pengaturan::geminiTersedia())
-      @php($geminiModel = \App\Models\Pengaturan::geminiModel())
-      @php($jenjangSekolah = setting('jenjang'))
-      @php($defaultOpsiCount = in_array($jenjangSekolah, ['SMA', 'SMK']) ? 5 : 4)
-
       <div class="kartu kartu-ai" id="kartu-ai">
         <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;flex-wrap:wrap;gap:8px">
           <h2 style="margin:0;display:flex;align-items:center;gap:8px">
@@ -219,6 +218,16 @@ Kunci: B
 2. Jelaskan pengertian fotosintesis!"></textarea>
         <button class="btn garis mt">{!! icon('upload', 16) !!}Impor soal</button>
       </form>
+    @else
+      <div class="kartu">
+        <h2>{!! icon('info', 18) !!}Langkah Pembuatan Kuis</h2>
+        <ol style="margin:12px 0 0 18px;line-height:1.8;color:var(--redup)">
+          <li>Tentukan judul kuis, jadwal dibuka &amp; ditutup, durasi, dan pengaturan anti-curang pada formulir di sebelah kanan.</li>
+          <li>Klik tombol <b>Buat kuis &amp; isi soal</b>.</li>
+          <li>Setelah kuis tersimpan, Anda dapat menambahkan butir soal manual, mengimpor dari teks Word/Docs, atau membuat soal otomatis dengan <b>AI Google Gemini</b>.</li>
+          <li>Centang <b>Terbitkan untuk siswa</b> bila semua soal sudah siap.</li>
+        </ol>
+      </div>
     @endif
   </div>
 
@@ -267,6 +276,7 @@ Kunci: B
 @if ($kuis->exists)
   <div class="mt">@include('partials.hapus', ['url' => route('kuis.destroy', [$ruang, $kuis]), 'pesan' => 'Hapus kuis ini beserta semua jawaban siswa?', 'kelas' => 'btn bahaya kecil', 'label' => 'Hapus kuis'])</div>
 @endif
+@if ($kuis->exists)
 @push('script')
 <script>
 (function () {
@@ -653,4 +663,5 @@ Kunci: B
 })();
 </script>
 @endpush
+@endif
 @endsection
