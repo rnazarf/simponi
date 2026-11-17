@@ -80,6 +80,9 @@
         document.getElementById('username').value = u;
         document.getElementById('password').value = p;
       }
+      </script>
+      @endif
+      <script>
       function toggleTema() {
         var cur = document.documentElement.getAttribute('data-theme') || 'light';
         var target = cur === 'dark' ? 'light' : 'dark';
@@ -94,7 +97,6 @@
       }
       document.addEventListener('DOMContentLoaded', perbaruiLabelTema);
       </script>
-      @endif
     </div>
   </section>
 </div>
