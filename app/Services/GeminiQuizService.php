@@ -41,7 +41,7 @@ class GeminiQuizService
         // Fallback model teruji bila model pilihan (misal gemini-1.5-flash) sudah tidak didukung di API key tersebut
         $daftarModel = array_values(array_unique([$modelAwal, 'gemini-2.5-flash', 'gemini-flash-latest', 'gemini-2.5-pro']));
 
-        $jumlah = max(1, min(30, (int) ($params['jumlah'] ?? 5)));
+        $jumlah = max(1, min(50, (int) ($params['jumlah'] ?? 5)));
         $jenis = in_array($params['jenis'] ?? '', ['pg', 'esai', 'campuran'], true) ? $params['jenis'] : 'pg';
         $tingkat = in_array($params['tingkat'] ?? '', ['mudah', 'sedang', 'sulit', 'campuran'], true) ? $params['tingkat'] : 'sedang';
         $opsiCount = (int) ($params['opsi_count'] ?? 5);
@@ -81,6 +81,7 @@ class GeminiQuizService
             'generationConfig' => [
                 'responseMimeType' => 'application/json',
                 'temperature' => 0.7,
+                'maxOutputTokens' => 8192,
             ],
         ];
 
@@ -89,7 +90,7 @@ class GeminiQuizService
         try {
             $client = new Client([
                 'handler' => new StreamHandler(),
-                'timeout' => 60,
+                'timeout' => 120,
                 'http_errors' => false,
             ]);
 

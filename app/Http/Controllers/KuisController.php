@@ -155,7 +155,7 @@ class KuisController extends Controller
 
         $data = $r->validate([
             'prompt' => 'required|string|max:15000',
-            'jumlah' => 'nullable|integer|min:1|max:30',
+            'jumlah' => 'nullable|integer|min:1|max:50',
             'jenis' => 'nullable|in:pg,esai,campuran',
             'tingkat' => 'nullable|in:mudah,sedang,sulit,campuran',
             'opsi_count' => 'nullable|in:4,5',

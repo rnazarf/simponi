@@ -100,6 +100,12 @@
               <option value="10">10 Soal</option>
               <option value="15">15 Soal</option>
               <option value="20">20 Soal</option>
+              <option value="25">25 Soal</option>
+              <option value="30">30 Soal</option>
+              <option value="35">35 Soal</option>
+              <option value="40">40 Soal (Ujian / Standar)</option>
+              <option value="45">45 Soal</option>
+              <option value="50">50 Soal (Maksimal)</option>
             </select>
           </div>
           <div class="field" style="flex:1.4;min-width:140px">
